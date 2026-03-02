@@ -1,4 +1,4 @@
-# BioNano-Medical-Image-ToolKit
+# BioNano-AI-Medical-Image-ToolKit
 Python toolkit for Medical Image Processing, NanoBiotechnology simulations, and Biomedical Data Analysis using Jupyter Notebooks
 
 # BioNano AI Medical Image Toolkit
